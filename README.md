@@ -8,4 +8,4 @@ I've also contributed to [Claudian](https://github.com/YishenTu/claudian), [Deer
 
 I'm always happy to meet new friends, exchange ideas, and explore collaborations.
 
-[简体中文](README.zh-CN.md) · [GitHub](https://github.com/heranliu)
+[GitHub](https://github.com/heranliu)
