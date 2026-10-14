@@ -7,5 +7,3 @@ My research interests include **LLM reasoning, AI agents, and quantitative finan
 I've also contributed to [Claudian](https://github.com/YishenTu/claudian), [DeerFlow](https://github.com/bytedance/deer-flow), [EvalScope](https://github.com/modelscope/evalscope), [RAGFlow](https://github.com/infiniflow/ragflow), and [OpenClaw](https://github.com/openclaw/openclaw).
 
 I'm always happy to meet new friends, exchange ideas, and explore collaborations.
-
-[GitHub](https://github.com/heranliu)
