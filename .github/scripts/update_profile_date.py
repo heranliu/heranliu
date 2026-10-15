@@ -7,7 +7,7 @@ import re
 readme = Path(__file__).resolve().parents[2] / "README.md"
 original = readme.read_text(encoding="utf-8")
 today = datetime.now(ZoneInfo("Asia/Shanghai"))
-date_text = f"Today is {today:%B} {today.day}, {today.year}."
+date_text = f"Today is {today:%A}, {today:%B} {today.day}."
 updated, count = re.subn(
     r"(?<=<!-- PROFILE_DATE_START -->).*?(?=<!-- PROFILE_DATE_END -->)",
     date_text,
