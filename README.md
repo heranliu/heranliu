@@ -1,4 +1,4 @@
-**Hi there!** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand"> <!-- PROFILE_DATE_START -->Today is Friday, October 23.<!-- PROFILE_DATE_END -->
+**Hi there!** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand"> <!-- PROFILE_DATE_START -->Today is Saturday, October 24.<!-- PROFILE_DATE_END -->
 
 I'm **Heran Liu**, a first-year master's student at **Peking University**. I received my bachelor's degree from **Renmin University of China**.
 
